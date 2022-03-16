@@ -62,7 +62,7 @@ const quote = [
 // 6b
 // console.log(...quote); 
 // OR
-for (all = 0; all <=0; all++;) {
+for (all = 0; all <=0; all++) {
     console.log(quote.join(` `));
 };
 //OR
@@ -86,4 +86,4 @@ for (i = 1; i <= 25; i++) {
     } else {
         console.log(i);
     }
-}
+};
